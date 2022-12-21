@@ -13,11 +13,4 @@ description: "I decided to dabble into your world of github wizardry! I apprecia
 avatar: "https://www.disneyclips.com/images/images/stitch-frog.png"
 
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
 
